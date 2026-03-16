@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style> H1{ 
+  color:red;
+  }
   <meta charset="UTF-8">
-  <title>Başlık Örneği</title>
+         barışma süreci
 </head>
 <body>
 
