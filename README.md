@@ -4,8 +4,10 @@
   <style> H1{ 
   color:red;
   }
+  </style>
   <meta charset="UTF-8">
          barışma süreci
+        
 </head>
 <body>
 
